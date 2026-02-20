@@ -1,8 +1,8 @@
 # 👨‍💻 Pedro SP
 
-**`Estudante de Desenvolvimento FullStack`**
+**`Estudante de Tecnologia em Análise e Desenv. de Sistemas `**
 
-Me chamo Pedro Silva, tenho 19 anos e sou natural do Minas Gerais. Concluí o ensino médio na FUNEC, com o curso técnico em informática. Atualmente, tenho aprimorado meus conhecimentos em desenvolvimento por meio de estudos autodidatas e pretendo ingressar em uma graduação em Ciência da Computação para aprofundar ainda mais minha formação na área..
+Me chamo Pedro Silva, tenho 19 anos e sou natural de Minas Gerais. Concluí o Ensino Médio na FUNEC, integrado ao curso técnico em Tecnologia da Informação, onde desenvolvi uma base sólida na área de tecnologia. Atualmente, continuo aprimorando meus conhecimentos em desenvolvimento de software por meio de estudos na plataforma Alura e também de forma autodidata. Estou cursando o primeiro semestre da graduação em Tecnologia em Análise e Desenvolvimento de Sistemas, com o objetivo de consolidar minha base técnica e me tornar um profissional cada vez mais preparado e competitivo no mercado de trabalho.
 
 ---
 
