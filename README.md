@@ -1,6 +1,6 @@
 # 👨‍💻 Pedro SP
 
-**`Desenvolvedor FullStack`**
+**`Front-End Developer`**
 
 Me chamo Pedro Silva, tenho 19 anos e sou natural de Minas Gerais. Concluí o Ensino Médio na FUNEC, com o curso técnico em Tecnologia da Informação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCMG. Sou apaixonado por Tecnologia desde a primeira experiência com o PS2 em minha infância.
 
