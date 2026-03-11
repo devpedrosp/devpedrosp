@@ -1,8 +1,10 @@
 # 👨‍💻 Pedro SP
 
-**`Front-End Developer`**
+**`Junior Front-End Developer`**
 
-Me chamo Pedro Silva, tenho 19 anos e sou natural de Minas Gerais. Concluí o Ensino Médio na FUNEC, com o curso técnico em Tecnologia da Informação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCMG. Sou apaixonado por Tecnologia desde a primeira experiência com o PS2 em minha infância.
+Olá, me chamo Pedro!
+Sempre tive interesse para a área da Tecnologia, meu primeiro console PS2 foi o "start", essa interação com o videogame me levou ao primeiro computador. A partir daí tive certeza que meu futuro era trabalhar com o que eu realmente amava, consequentemente conheci a área de desenvolvimento. 
+Sou técnico em Tecnologia da Informação pela FUNEC e atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas. 
 
 ---
 
