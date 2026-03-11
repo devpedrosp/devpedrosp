@@ -1,8 +1,8 @@
 # 👨‍💻 Pedro SP
 
-**`Estudante de Tecnologia em Análise e Desenv. de Sistemas `**
+**`Desenvolvedor FullStack`**
 
-Me chamo Pedro Silva, tenho 19 anos e sou natural de Minas Gerais. Concluí o Ensino Médio na FUNEC, integrado ao curso técnico em Tecnologia da Informação, onde desenvolvi uma base sólida na área de tecnologia. Atualmente, continuo aprimorando meus conhecimentos em desenvolvimento de software por meio de estudos na plataforma Alura e também de forma autodidata. Estou cursando o primeiro semestre da graduação em Tecnologia em Análise e Desenvolvimento de Sistemas, com o objetivo de consolidar minha base técnica e me tornar um profissional cada vez mais preparado e competitivo no mercado de trabalho.
+Me chamo Pedro Silva, tenho 19 anos e sou natural de Minas Gerais. Concluí o Ensino Médio na FUNEC, com o curso técnico em Tecnologia da Informação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCMG. Sou apaixonado por Tecnologia desde a primeira experiência com o PS2 em minha infância.
 
 ---
 
@@ -40,7 +40,15 @@ Me chamo Pedro Silva, tenho 19 anos e sou natural de Minas Gerais. Concluí o En
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-<img
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
     align="left" 
     alt="Git" 
     title="Git"
@@ -48,3 +56,25 @@ Me chamo Pedro Silva, tenho 19 anos e sou natural de Minas Gerais. Concluí o En
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=devpedrosp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedrosp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
